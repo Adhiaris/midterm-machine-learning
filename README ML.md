@@ -1,8 +1,8 @@
-# 🤖 Machine Learning Midterm Projects
+Machine Learning Midterm Projects
 
 A collection of three machine learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection (Classification)**. Each notebook applies end-to-end ML pipelines including preprocessing, model training, hyperparameter tuning, experiment tracking, and explainability.
 
-> ⚠️ **Note:** This repository covers **Machine Learning models only**. Deep Learning experiments (Neural Network models) exist in a separate repository.
+> **Note:** This repository covers **Machine Learning models only**. Deep Learning experiments (Neural Network models) exist in a separate repository.
 
 ---
 
