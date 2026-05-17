@@ -1,6 +1,8 @@
 Machine Learning Midterm Projects
 
-A collection of three machine learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection**. Each notebook applies end-to-end ML pipelines including preprocessing, model training, hyperparameter tuning, experiment tracking, and explainability.
+Name: Adhiaris M Azka |
+NIM: 1103220143 |
+Class: TK-46-G13
 
 ---
 
