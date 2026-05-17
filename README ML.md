@@ -9,9 +9,9 @@ Class: TK-46-G13
 ## Repository Structure
 
 ```
-├── Midterm-Clustering.ipynb           # Customer/data segmentation using KMeans
-├── midterm-regresin-updated.ipynb     # Regression with Ridge (Optuna + MLflow + LIME)
-└── midterm-fraud-detection.ipynb      # Fraud detection using Random Forest classifier
+├── Midterm-Clustering.ipynb           
+├── midterm-regresin-updated.ipynb     
+└── midterm-fraud-detection.ipynb     
 ```
 
 ---
