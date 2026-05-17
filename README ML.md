@@ -1,12 +1,10 @@
 Machine Learning Midterm Projects
 
-A collection of three machine learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection (Classification)**. Each notebook applies end-to-end ML pipelines including preprocessing, model training, hyperparameter tuning, experiment tracking, and explainability.
-
-> **Note:** This repository covers **Machine Learning models only**. Deep Learning experiments (Neural Network models) exist in a separate repository.
+A collection of three machine learning notebooks covering **Clustering**, **Regression**, and **Fraud Detection**. Each notebook applies end-to-end ML pipelines including preprocessing, model training, hyperparameter tuning, experiment tracking, and explainability.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── Midterm-Clustering.ipynb           # Customer/data segmentation using KMeans
@@ -16,9 +14,9 @@ A collection of three machine learning notebooks covering **Clustering**, **Regr
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-### 1. 📊 Clustering — `Midterm-Clustering.ipynb`
+### 1. Clustering — `Midterm-Clustering.ipynb`
 Unsupervised learning notebook that segments data into meaningful groups.
 
 - **Model:** KMeans Clustering
@@ -28,7 +26,7 @@ Unsupervised learning notebook that segments data into meaningful groups.
 
 ---
 
-### 2. 📈 Regression — `midterm-regresin-updated.ipynb`
+### 2. Regression — `midterm-regresin-updated.ipynb`
 Supervised regression task predicting a continuous target variable from 89 features.
 
 - **Model:** Ridge Regression
@@ -49,7 +47,7 @@ Supervised regression task predicting a continuous target variable from 89 featu
 
 ---
 
-### 3. 🔍 Fraud Detection — `midterm-fraud-detection.ipynb`
+### 3. Fraud Detection — `midterm-fraud-detection.ipynb`
 Binary classification task detecting fraudulent financial transactions.
 
 - **Model:** Random Forest Classifier
@@ -69,7 +67,7 @@ Binary classification task detecting fraudulent financial transactions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool               | Purpose                            |
 |--------------------|------------------------------------|
@@ -83,7 +81,7 @@ Binary classification task detecting fraudulent financial transactions.
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 | Notebook        | Dataset                                              |
 |-----------------|------------------------------------------------------|
@@ -93,7 +91,7 @@ Binary classification task detecting fraudulent financial transactions.
 
 ---
 
-## 📊 MLflow Experiments
+## MLflow Experiments
 
 | Experiment Name            | Model             | Key Metric       |
 |----------------------------|-------------------|------------------|
@@ -102,15 +100,13 @@ Binary classification task detecting fraudulent financial transactions.
 
 ---
 
-## 🚀 How to Navigate
+## How to Navigate
 
 1. **Clone the repository** and open the notebooks in [Google Colab](https://colab.research.google.com/) or JupyterLab.
 2. Each notebook is **self-contained** — install dependencies by running the `!pip install` cell at the top.
 3. Notebooks follow this general structure:
-   - 📦 Library installation & imports
-   - 📂 Dataset loading & preprocessing
-   - 🤖 **Machine Learning Model** section (focus of this repo)
-   - 📊 Evaluation metrics & visualizations
-   - 🧪 MLflow experiment logging
-
-> 💡 Cells marked **`Deep Learning Model`** are **excluded from this repository's scope** and are available in the Deep Learning repository.
+   - Library installation & imports
+   - Dataset loading & preprocessing
+   - **Machine Learning Model** section (focus of this repo)
+   - Evaluation metrics & visualizations
+   - MLflow experiment logging
